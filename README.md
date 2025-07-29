@@ -26,7 +26,10 @@
 </p><p>
 <div class="styleBullet">
 <ul><li>
-
+ResNet-18でGrokkingを再現させるコードが公開されている。
+<a href="https://github.com/Qihuai27/Grokking-Insight">https://github.com/Qihuai27/Grokking-Insight</a><br>
+(私の環境だと学習済ResNet-18パラメータのダウンロードに失敗し動作未確認)
+</li><br><li>
 [4] Let Me Grok for You: Accelerating Grokking via Embedding Transfer from a Weaker Model (2025)<br>
 AIによる要約は<a href="">こちら</a><br>
 <br>
