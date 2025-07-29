@@ -45,8 +45,9 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2405.20233v2">
 Grokfastは、勾配の低周波成分を選択的に増幅することにより、グロッキングとして知られる遅延汎化現象を、さまざまな深層学習タスクにおいて最大50倍加速させる。
 
 </li><br><li>
-[2]Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition　(2023)
-
+[2]Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition　(2023)<br>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2402.15175v2">こちら</a>
+    
 </li><br><li>
 [1] Bridging Lottery ticket and Grokking: Is Weight Norm Sufficient to Explain Delayed Generalization? (2023)　東大松尾研
 
