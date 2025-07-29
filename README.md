@@ -26,18 +26,7 @@
 </p><p>
 <div class="styleBullet">
 <ul><li>
-[1] Bridging Lottery ticket and Grokking: Is Weight Norm Sufficient to Explain Delayed Generalization? (2023)　東大松尾研
 
-</li><br><li>
-[2]Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition　(2023)
-
-
-</li><br><li>
-[3] Grokfast: Accelerated Grokking by Amplifying Slow Gradients (2024)<br>
-AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2405.20233v2">こちら</a><br>
-Grokfastは、勾配の低周波成分を選択的に増幅することにより、グロッキングとして知られる遅延汎化現象を、さまざまな深層学習タスクにおいて最大50倍加速させる。
-
-</li><br><li>
 [4] Let Me Grok for You: Accelerating Grokking via Embedding Transfer from a Weaker Model (2025)<br>
 AIによる要約は<a href="">こちら</a><br>
 <br>
@@ -47,8 +36,21 @@ GrokTransferはまず、より小さく弱いモデルをトレーニングし�
 <br>
 (「知識蒸留」は強いモデル(教師モデル)の知識を使って、弱いモデル(生徒モデル)の学習を支援するけど、その逆ってこと? 面白い。)
 
+</li><br><li>
+[3] Grokfast: Accelerated Grokking by Amplifying Slow Gradients (2024)<br>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2405.20233v2">こちら</a><br>
+Grokfastは、勾配の低周波成分を選択的に増幅することにより、グロッキングとして知られる遅延汎化現象を、さまざまな深層学習タスクにおいて最大50倍加速させる。
 
+</li><br><li>
+[2]Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition　(2023)
 
+</li><br><li>
+[1] Bridging Lottery ticket and Grokking: Is Weight Norm Sufficient to Explain Delayed Generalization? (2023)　東大松尾研
+
+</li><br><li>
+[0] Grokking: Generalization beyond overfitting on small algorithmic datasets (2022)<br>
+最初に「グロッキング」現象を発見し、命名し、調査した論文<br>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2201.02177v1">こちら</a>
 </li></ul></div>
 </p>
     </body>
