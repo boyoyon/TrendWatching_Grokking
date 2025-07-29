@@ -31,7 +31,7 @@ ResNet-18でGrokkingを再現させるコードが公開されている。
 (私の環境だと学習済ResNet-18パラメータのダウンロードに失敗し動作未確認)
 </li><br><li>
 [4] Let Me Grok for You: Accelerating Grokking via Embedding Transfer from a Weaker Model (2025)<br>
-AIによる要約は<a href="">こちら</a><br>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2504.13292v1">こちら</a><br>
 <br>
 GrokTransferはまず、より小さく弱いモデルをトレーニングし、自明ではない（しかし最適には程遠い）テスト性能に到達させます。次に、この弱いモデルから学習された入力埋め込みを抽出し、ターゲットとなるより強力なモデルへの埋め込みを初期化するために使用します。<br>
 <br>
