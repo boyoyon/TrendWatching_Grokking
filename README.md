@@ -30,13 +30,13 @@ ResNet-18でGrokkingを再現させるコードが公開されている。
 <a href="https://github.com/Qihuai27/Grokking-Insight">https://github.com/Qihuai27/Grokking-Insight</a><br>
 (私の環境だと学習済ResNet-18パラメータのダウンロードに失敗し動作未確認)
 </li><br><li>
-埋め込み層からの Grokking のメカニズム的洞察<br>
+[7] 埋め込み層からの Grokking のメカニズム的洞察<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2505.15624v1">こちら</a><br>
 機械的分析により、ニューラルネットワークにおけるグロッキング現象の主な要因が埋め込み層であることが明らかになりました。
 本研究では、埋め込みパラメータに異なる学習率を適用するAdam-LRという改良されたオプティマイザを提案しており、これにより更新量のバランスを取り、初期化に対する感度を緩和することで、グロッキングを加速させます。
     
 </li><br><li>
-GrokAlign: グロッキングの幾何学的特徴付けと高速化<br>
+[6] GrokAlign: グロッキングの幾何学的特徴付けと高速化<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2506.12284v1">こちら</a><br>
 グロッキングの遅延汎化とロバストネスという二重の側面を統一する、初のメカニズム的説明を提供します。
 </li><br><li>
