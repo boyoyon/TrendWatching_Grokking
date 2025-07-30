@@ -38,7 +38,11 @@ GrokTransferはまず、より小さく弱いモデルをトレーニングし�
 <strong>弱いモデルから強いモデルへの知識伝達の原則に基づいており、より単純なモデルからの洞察が、より複雑なモデルの学習をブートストラップできます。</strong><br>
 <br>
 (「知識蒸留」は強いモデル(教師モデル)の知識を使って、弱いモデル(生徒モデル)の学習を支援するけど、その逆ってこと? 面白い。)
-
+</li><br><li>
+[5] Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test (2025)<br>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2506.21551v1">こちら</a><br>
+大規模言語モデル（LLM）の実用的な大規模事前学習において、グロッキングは発生するのでしょうか？
+小規模モデルで見られたグローバルで同期的なグロッキングとは異なり、LLMのグロッキングは<strong>局所的かつ非同期</strong>であることを発見した。
 </li><br><li>
 [3] Grokfast: Accelerated Grokking by Amplifying Slow Gradients (2024)<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2405.20233v2">こちら</a><br>
