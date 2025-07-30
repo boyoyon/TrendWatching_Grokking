@@ -64,6 +64,7 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2402.15175v2">
     
 </li><br><li>
 [1] Bridging Lottery ticket and Grokking: Is Weight Norm Sufficient to Explain Delayed Generalization? (2023)　東大松尾研
+日本語版は<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1B4GS203/_pdf/-char/ja">こちら</a>
 
 </li><br><li>
 [0] Grokking: Generalization beyond overfitting on small algorithmic datasets (2022)<br>
