@@ -26,6 +26,54 @@
 </p><p>
 <div class="styleBullet">
 <ul><li>
+<a href="https://www.arxiv.org/abs/2508.04401">Why are LLMs' abilities emergent?</a><br>
+LLM の能力はなぜ出現するのでしょうか?<br>
+
+</li><br><li>
+<a href="https://arxiv.org/abs/2507.23346">Transfer entropy and O-information to detect grokking in tensor network multi-class classification problems</a><br>
+テンソルネットワークの多クラス分類問題における グロッキング 検出のための転送エントロピーとO情報量
+    
+</li><br><li>
+<a href="https://arxiv.org/abs/2507.20057">What Can Grokking Teach Us About Learning Under Nonstationarity?</a><br>
+非定常状態での学習について グロッキングから 何が学べるか?
+    
+</li><br><li>
+<a href="https://arxiv.org/abs/2507.11645">Tracing the Path to Grokking: Embeddings, Dropout, and Network Activation</a><br>
+Grokking への道筋を辿る：埋め込み、ドロップアウト、ネットワーク活性化
+
+</li><br><li>
+<a href="https://arxiv.org/abs/2506.04434">Grokking and Generalization Collapse: Insights from HTSR theory</a><br>
+Grokkingと一般化の崩壊: HTSR 理論からの洞察
+    
+</li><br><li>
+<a href="https://arxiv.org/abs/2507.05644">FACT: the Features At Convergence Theorem for neural networks</a><br>
+事実：ニューラルネットワークの収束定理の特徴
+
+</li><br><li>
+<a href="https://arxiv.org/abs/2506.23679">Learning Modular Exponentiation with Transformers</a><br>
+Transformerを使ったモジュラー指数の学習
+    
+</li><br><li>
+<a href="https://arxiv.org/abs/2506.23286">Not All Explanations for Deep Learning Phenomena Are Equally Valuable</a><br>
+ディープラーニング現象に対するすべての説明が同等に価値があるわけではない
+
+</li><br><li>
+<a href="https://www.arxiv.org/abs/2507.19680">Feature learning is decoupled from generalization in high capacity neural networks</a><br>
+大容量ニューラルネットワークでは、特徴学習は一般化から切り離されている
+
+</li><br><li>
+<a href="https://arxiv.org/abs/2506.11015">The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI</a><br>
+記憶のパラドックス：AI時代に脳が知識を必要とする理由
+
+</li><br><li>
+<a href="https://arxiv.org/abs/2506.21551">Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test</a><br>
+LLM事前学習でGrokkingを見つけるには？テストなしで記憶から一般化への変化をモニタリング
+
+</li><br><li>
+<a href="https://arxiv.org/abs/2504.17243">NeuralGrok: Accelerate Grokking by Neural Gradient Transformation</a><br>
+NeuralGrok: ニューラル勾配変換による Grokking の高速化
+
+</li><br><li>
 ResNet-18でGrokkingを再現させるコードが公開されている。
 <a href="https://github.com/Qihuai27/Grokking-Insight">https://github.com/Qihuai27/Grokking-Insight</a><br>
 (私の環境だと学習済ResNet-18パラメータのダウンロードに失敗し動作未確認)
