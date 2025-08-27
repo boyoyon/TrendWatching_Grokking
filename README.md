@@ -44,7 +44,7 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2508.04401v1">
 グロッキングを促進するのと同じ根底にあるメカニズムが、非定常な状況におけるプライマシーバイアスを軽減するのに役立つという論文があります。<strong>言い換えれば、グロッキングできれば、継続的に学習できるということです！</strong><br>
 <br>
 既存の記述を使ってGrokkingを速めるのかと思ったら反対だった ((Grokking高速化の手法で初頭バイアスに打ち勝つ)。<br>
-継続学習させるのも興味深いが..
+継続学習させるのも興味深いが･･･
 </li></ul></div>
 </p>
 <center><img src="images/primacy_bias.png"></center>
@@ -52,7 +52,6 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2508.04401v1">
 <div class="styleBullet">
 <ul><li>
 
-</li><br><li>
 <a href="https://arxiv.org/abs/2507.11645">Tracing the Path to Grokking: Embeddings, Dropout, and Network Activation</a><br>
 Grokking への道筋を辿る：埋め込み、ドロップアウト、ネットワーク活性化<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2507.11645v1">こちら</a>
