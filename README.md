@@ -37,13 +37,13 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2508.04401v1">
     
 </li><br><li>
 <a href="https://arxiv.org/abs/2507.20057">What Can Grokking Teach Us About Learning Under Nonstationarity?</a><br>
-非定常状態での学習について グロッキングから 何が学べるか?<br>
+[8] 非定常状態での学習について グロッキングから 何が学べるか?<br>
 
 <a href="https://x.com/clarelyle">https://x.com/clarelyle</a><br>
 グロッキングと可塑性には何が共通しているのでしょうか？
 グロッキングを促進するのと同じ根底にあるメカニズムが、非定常な状況におけるプライマシーバイアスを軽減するのに役立つという論文があります。<strong>言い換えれば、グロッキングできれば、継続的に学習できるということです！</strong><br>
 <br>
-既存の技術を使ってGrokkingを速めるのかと思ったら反対だった ((Grokking高速化の手法で初頭バイアスに打ち勝つ)。<br>
+既存の技術を使ってGrokkingを速めるのかと思ったら反対だった (Grokking高速化の手法で初頭バイアスに打ち勝つ)。<br>
 継続学習させるのも興味深いが･･･
 </li></ul></div>
 </p>
