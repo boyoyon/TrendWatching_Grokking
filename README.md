@@ -40,7 +40,7 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2508.04401v1">
 
 <a href="https://x.com/clarelyle">https://x.com/clarelyle</a><br>
 グロッキングと可塑性には何が共通しているのでしょうか？
-グロッキングを促進するのと同じ根底にあるメカニズムが、非定常な状況におけるプライマシーバイアスを軽減するのに役立つという論文があります。言い換えれば、グロッキングできれば、継続的に学習できるということです！
+グロッキングを促進するのと同じ根底にあるメカニズムが、非定常な状況におけるプライマシーバイアスを軽減するのに役立つという論文があります。<strong>言い換えれば、グロッキングできれば、継続的に学習できるということです！</strong>
 
 </li><br><li>
 <a href="https://arxiv.org/abs/2507.11645">Tracing the Path to Grokking: Embeddings, Dropout, and Network Activation</a><br>
