@@ -45,8 +45,9 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2508.04401v1">
 <br>
 既存の記述を使ってGrokkingを速めるのかと思ったら反対だった ((Grokking高速化の手法で初頭バイアスに打ち勝つ)。<br>
 継続学習させるのも興味深いが..
+</li></ul></div>
 </p>
-
+<center><img src="images/primacy_bias.png"></center>
 <p>
 <div class="styleBullet">
 <ul><li>
