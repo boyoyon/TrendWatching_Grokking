@@ -17,6 +17,7 @@
 
 日本語の「腑に落ちる」「腹落ちする」に該当するそうで、何故か興味がある。<br>
 「Grokking」という用語は、ロバート・ハインラインのSF小説「異星の客」から借りてきたものとのこと(未読)<br>
+ Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets（小さなアルゴリズムデータセットにおける過適合を超えた一般化)
 </p>
 <h3>動向</h3>
 <p>
