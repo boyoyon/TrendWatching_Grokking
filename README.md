@@ -38,6 +38,7 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2508.04401v1">
 </li><br><li>
 <a href="https://arxiv.org/abs/2507.20057">What Can Grokking Teach Us About Learning Under Nonstationarity?</a><br>
 [8] 非定常状態での学習について グロッキングから 何が学べるか?<br>
+機械翻訳は<a href="https://boyoyon.github.io/HTMLs_translated_to_Japanese/2025_WHAT%20CAN%20GROKKING%20TEACH%20US%20ABOUT%20LEARNING/WHAT%20CAN%20GROKKING%20TEACH%20US%20ABOUT%20LEARNING%20UNDER%20NONSTATIONARITY.html">こちら</a><br>
 
 <a href="https://x.com/clarelyle">https://x.com/clarelyle</a><br>
 グロッキングと可塑性には何が共通しているのでしょうか？
@@ -140,7 +141,8 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2402.15175v2">
 </li><br><li>
 [0] Grokking: Generalization beyond overfitting on small algorithmic datasets (2022)<br>
 最初に「グロッキング」現象を発見し、命名し、調査した論文<br>
-AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2201.02177v1">こちら</a>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2201.02177v1">こちら</a><br>
+機械翻訳は<a href="https://boyoyon.github.io/HTMLs_translated_to_Japanese/2022_GROKKING%20-%20GENERALIZATION%20BEYOND%20OVERFITTING%20ON%20SMALL%20ALGORITHMIC%20DATASETS/GROKKING%20-%20GENERALIZATION%20BEYOND%20OVERFITTING%20ON%20SMALL%20ALGORITHMIC%20DATASETS.html">こちら</a>
 </li></ul></div>
 </p>
     </body>
