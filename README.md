@@ -61,7 +61,8 @@ AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2507.11645v1">
 
 </li><br><li>
 <a href="https://arxiv.org/abs/2506.04434">Grokking and Generalization Collapse: Insights from HTSR theory</a><br>
-Grokkingと一般化の崩壊: HTSR 理論からの洞察
+Grokkingと一般化の崩壊: HTSR 理論からの洞察<br>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2506.04434v1">こちら</a>
     
 </li><br><li>
 <a href="https://arxiv.org/abs/2507.05644">FACT: the Features At Convergence Theorem for neural networks</a><br>
