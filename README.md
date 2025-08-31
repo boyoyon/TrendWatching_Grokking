@@ -133,10 +133,22 @@ Grokfastは、勾配の低周波成分を選択的に増幅することにより
 </li><br><li>
 [2]Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition　(2023)<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2402.15175v2">こちら</a>
-    
+
 </li><br><li>
-[1] Bridging Lottery ticket and Grokking: Is Weight Norm Sufficient to Explain Delayed Generalization? (2023)　東大松尾研
-日本語版は<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1B4GS203/_pdf/-char/ja">こちら</a>
+Grokking as the Transition from Lazy to Rich Training Dynamics<br>
+グロッキング：怠惰な訓練ダイナミクスから豊かな訓練ダイナミクスへの移行(2023)<br>
+AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2310.06110v3">こちら</a><br>
+
+ニューラルネットワークにおけるグロッキング現象を、初期の「怠惰な(lazy)」訓練フェーズから「豊かな(rich)」特徴学習フェーズへの移行として説明<br>
+</p>
+<center><img src="images/lazy_rich.png"></center>
+<p>
+異なる学習ダイナミクスが異なる解にどのように導くかを示す概念図。青いパスはグロッキングを表しており、ネットワークは初期にはレイジーな学習軌道（初期化に近い状態を保つ）をたどり、その後リッチな特徴学習へと移行する
+<br>
+
+</li><br><li>
+[1] Bridging Lottery ticket and Grokking: Is Weight Norm Sufficient to Explain Delayed Generalization? (2023)　<br>
+東大松尾研　日本語版は<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1B4GS203/_pdf/-char/ja">こちら</a>
 
 </li><br><li>
 [0] Grokking: Generalization beyond overfitting on small algorithmic datasets (2022)<br>
