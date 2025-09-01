@@ -136,6 +136,7 @@ GROKKING AT THE EDGE OF NUMERICAL STABILITY (数値的安定性の限界を突�
 　モデルがSCに近づくことがわる。これをナイーブ損失最小化（NLM）と呼ぶ<br>
 ・新しい最適化手法によってNLMを回避できることを実証した(⟂Grad)<br><br>
 <center><img src="images/numerical_stability.png"></center><br>
+    <center>113を法とする加算タスクで得られた結果</center>
 </li><br><li>
 [3] Grokfast: Accelerated Grokking by Amplifying Slow Gradients (2024)<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2405.20233v2">こちら</a><br>
