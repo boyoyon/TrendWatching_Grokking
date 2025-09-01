@@ -125,6 +125,17 @@ GrokTransferはまず、より小さく弱いモデルをトレーニングし�
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2506.21551v1">こちら</a><br>
 大規模言語モデル（LLM）の実用的な大規模事前学習において、グロッキングは発生するのでしょうか？
 小規模モデルで見られたグローバルで同期的なグロッキングとは異なり、LLMのグロッキングは<strong>局所的かつ非同期</strong>であることを発見した。
+
+</li><br><li>
+GROKKING AT THE EDGE OF NUMERICAL STABILITY (数値的安定性の限界を突き止める) (2025)<br>
+・グロッキングなしで過剰適合するケースは、浮動小数点エラーが極端な値によって引き起こされる。<br>
+　これをソフトマックス崩壊 (SC) と呼ぶ 。<br>
+・SCを回避するための介入、例えば浮動小数点精度の向上や数値的に安定したSoftmaxの新しいバージョン<br>
+（ステーブルマックス）、正規化なしではこれまで存在しなかった設定でグロッキングが発生する<br>
+・過剰適合と交差エントロピー損失がモデルを制御されていないロジット成長の方向に押し進めるため、<br>
+　モデルがSCに近づくことがわる。これをナイーブ損失最小化（NLM）と呼ぶ<br>
+・新しい最適化手法によってNLMを回避できることを実証した(⟂Grad)<br><br>
+<center><img src="images/numerical_stability.png"></center><br>
 </li><br><li>
 [3] Grokfast: Accelerated Grokking by Amplifying Slow Gradients (2024)<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2405.20233v2">こちら</a><br>
