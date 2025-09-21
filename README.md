@@ -147,6 +147,14 @@ Grokfastは、勾配の低周波成分を選択的に増幅することにより
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2402.15175v2">こちら</a>
 
 </li><br><li>
+Explaining grokking through circuit efficiency (2023)<br>
+<br>
+-「訓練データをそのまま記憶する回路」と「データの背後にある普遍的なパターンを学習する汎化回路」という、2種類の解法が存在する。<br>
+- 記憶回路は学習が速い一方で非効率的であり、汎化回路は学習が遅いがより効率的<br>
+- 学習の初期段階では、より早く形成される非効率な記憶回路が優位になるため、モデルは訓練データを暗記する。<br>
+- 訓練が長期間続くにつれて、「重み減衰（weight decay）」などの効果により,効率的な汎化回路が徐々に形成され、最終的に記憶回路に取って代わる。この移行が完了したときに、モデルの汎化能力が劇的に向上し、Grokkingとして観察される<br>
+
+</li><br><li>
 Grokking as the Transition from Lazy to Rich Training Dynamics<br>
 グロッキング：怠惰な訓練ダイナミクスから豊かな訓練ダイナミクスへの移行(2023)<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2310.06110v3">こちら</a><br>
