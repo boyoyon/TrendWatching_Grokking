@@ -17,7 +17,14 @@
 
 日本語の「腑に落ちる」「腹落ちする」に該当するそうで、何故か興味がある。<br>
 「Grokking」という用語は、ロバート・ハインラインのSF小説「異星の客」から借りてきたものとのこと(未読)<br>
- Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets（小さなアルゴリズムデータセットにおける過適合を超えた一般化)
+ Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets（小さなアルゴリズムデータセットにおける過適合を超えた一般化)<br>
+ <br>
+ より広範な研究テーマとして『Memorization to Generalization』(記憶(暗記)から汎化へ)というものがあるらしい。<br>
+・『Memorization to Generalization: Emergence of Diffusion Models from Associative Memory』(2025)<br>
+　(記憶から汎化へ：連想記憶からの拡散モデルの創発)<br>
+・『Diffusion probabilistic models generalize when they fail to memorize』(2023)<br>
+　　(拡散確率モデルは暗記に失敗すると汎化する)<br>
+  など
 </p>
 <h3>動向</h3>
 <p>
