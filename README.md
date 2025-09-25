@@ -30,7 +30,7 @@
 <p>
 たぶん、こんな感じ。
 </p> 
-<center><img src="images/trend.png"></center>
+<center><img src="images/trend.svg"></center>
 </p><p>
 <div class="styleBullet">
 <ul><li>
