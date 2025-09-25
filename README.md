@@ -34,6 +34,12 @@
 </p><p>
 <div class="styleBullet">
 <ul><li>
+<a href="https://arxiv.org/abs/2509.17738">Flatness is Necessary, Neural Collapse is Not: Rethinking Generalization via Grokking</a><br>
+平坦性は必要だが、ニューラルコラプスは不要：グロッキングによる汎化の再考<br>
+ニューラルコラプスと損失ランドスケープの平坦性は理論的にも経験的にも汎化と結び付けられてきた。しかし、どちらの現象の因果関係も依然として不明だった。グロッキングを用いてこれらの疑問を解明した。
+ニューラルコラプスと相対的平坦性はどちらも汎化の開始時に出現するが、平坦性のみが一貫して汎化を予測できることが分かった。<br>
+グロッキングが幾何学的基礎を分離するための強力なプローブとしてどのように機能するかを実証した。<br>
+</li><br><li>
 <a href="https://www.arxiv.org/abs/2508.04401">Why are LLMs' abilities emergent?</a><br>
 LLM の能力はなぜ出現するのでしょうか?<br>
 AIによる要約は<a href="https://www.alphaxiv.org/ja/overview/2508.04401v1">こちら</a>
