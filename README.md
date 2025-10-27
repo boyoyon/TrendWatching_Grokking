@@ -34,6 +34,14 @@
 </p><p>
 <div class="styleBullet">
 <ul><li>
+<a href="https://arxiv.org/abs/2510.04930v1">Egalitarian Gradient Descent: A Simple Approach to Accelerated Grokking</a> (2025)<br>
+　(平等勾配降下法：加速グロッキングへのシンプルなアプローチ)<br>
+　・（確率的）勾配降下法の速度が、勾配の異なる主方向（すなわち、特異方向）に沿って非対称になることで、グロッキングが誘発されることを、経験的かつ理論的に示す。<br>
+　・次に、勾配を正規化し、すべての主方向に沿ったダイナミクスが全く同じ速度で進化するようにする、単純な修正法を提案する。<br>
+　・この修正法 (我々は平等主義勾配降下法（EGD）と呼び、<strong>自然勾配降下法を慎重に修正した形式と見なすことができる</strong>) が、<strong>はるかに高速にグロッキングする</strong>ことを確立する。
+ 
+</li><br><li>
+     
 <a href="https://arxiv.org/abs/2509.17738">Flatness is Necessary, Neural Collapse is Not: Rethinking Generalization via Grokking</a><br>
 平坦性は必要だが、ニューラルコラプスは不要：グロッキングによる汎化の再考<br>
 ニューラルコラプスと損失ランドスケープの平坦性は理論的にも経験的にも汎化と結び付けられてきた。しかし、どちらの現象の因果関係も依然として不明だった。グロッキングを用いてこれらの疑問を解明した。
