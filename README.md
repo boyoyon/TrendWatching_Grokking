@@ -39,7 +39,8 @@
 <center><img src="images/anti-grokking.svg"></center><br>
 (つづきがあった)<br>
 <center><img src="images/anti-grokking2.png"></center><br>
-注目すべきは、(Weight Decayありだと) 初期のグロッキングフェーズの後、テスト精度はわずかに低下し、その後長期間プラトー状態に入り、かなりの数の最適化ステップにわたってピークに近いパフォーマンスを維持していることです。
+注目すべきは、(Weight Decayありだと) 初期のグロッキングフェーズの後、テスト精度はわずかに低下し、その後長期間プラトー状態に入り、かなりの数の最適化ステップにわたってピークに近いパフォーマンスを維持していることです。<br>
+<a href="https://x.com/CalcCon/status/2017304487933972690">著者らしい人のコメント</a>
 </li><br><li>
     
 <a href="https://arxiv.org/html/2601.19791v1">Grok Grokking: リッジ回帰における証明可能なGrokking</a> (2026)<br>
