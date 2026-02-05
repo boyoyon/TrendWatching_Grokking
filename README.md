@@ -37,7 +37,9 @@
 <a href="https://www.alphaxiv.org/ja/overview/2602.02859">グロッキングにおける後期汎化崩壊: Weightwatcherによる反グロッキングの検出</a> (2026)<br>
 ・これまで報告されていなかったグロッキングの第三段階、すなわち、汎化の最終段階での崩壊であるアンチグロッキング状態を特定しました。<br>
 <center><img src="images/anti-grokking.svg"></center><br>
-
+(つづきがあった)<br>
+<center><img src="images/anti-grokking2.png"></center><br>
+注目すべきは、(Weight Decayありだと) 初期のグロッキングフェーズの後、テスト精度はわずかに低下し、その後長期間プラトー状態に入り、かなりの数の最適化ステップにわたってピークに近いパフォーマンスを維持していることです。
 </li><br><li>
     
 <a href="https://arxiv.org/html/2601.19791v1">Grok Grokking: リッジ回帰における証明可能なGrokking</a> (2026)<br>
