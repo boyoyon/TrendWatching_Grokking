@@ -34,6 +34,12 @@
 </p><p>
 <div class="styleBullet">
 <ul><li>
+<a href="https://www.alphaxiv.org/ja/overview/2602.02859">グロッキングにおける後期汎化崩壊: Weightwatcherによる反グロッキングの検出</a> (2026)<br>
+・これまで報告されていなかったグロッキングの第三段階、すなわち、汎化の最終段階での崩壊であるアンチグロッキング状態を特定しました。<br>
+<center><img src="images/anti-grokking.svg"></center><br>
+
+</li><br><li>
+    
 <a href="https://arxiv.org/html/2601.19791v1">Grok Grokking: リッジ回帰における証明可能なGrokking</a> (2026)<br>
    ・我々は、古典的なリッジ回帰設定において、グロッキング（過学習のかなり後になって現れる汎化の始まり）を研究する。<br>
 ･･･<br>
